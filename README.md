@@ -1,4 +1,5 @@
 # PsychicNumberDude
  ### Number Guessing Game
  #### Built with Unity and programmed with C#
- This game makes use of the binary search algorithm.
+ This game makes use of the binary search algorithm. 
+ Project reinforces component creation and programming.
